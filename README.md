@@ -4,7 +4,7 @@ This repository contains notebooks for running inference with the FLUX text-to-i
 
 ## Contents
 
-- [Colab Notebook](https://drive.google.com/file/u/0/d/1lkPxDhOenQPfgoPDum6WLeq0qLyO3Gby) - Run FLUX inference in Google Colab
+- [Colab Notebook](https://colab.research.google.com/drive/1lkPxDhOenQPfgoPDum6WLeq0qLyO3Gby) - Run FLUX inference in Google Colab
 - [Local Notebook](https://github.com/AkulDatta/FLUX-Inference-fp8/blob/main/FluxInference.ipynb) - Run FLUX inference locally (Requires a 16GB+ GPU)
 
 ## Usage
